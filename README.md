@@ -2,15 +2,15 @@
 Tutorial with TensorFlow for Classifying Handwritten Digits<br>
 Based on the [Classifying Handwritten Digits with TF.Learn - Machine Learning Recipes #7](https://www.youtube.com/watch?v=Gj0iyo265bc)
 
-\n
-This code is tested against TensorFlow 0.10.0rc0. You can find a docker image here:
+This code is tested against TensorFlow 0.10.0rc0.<br>
+You can find a docker image here:
 [https://hub.docker.com/r/tensorflow/tensorflow/](https://hub.docker.com/r/tensorflow/tensorflow/)
 
 # Summary
 
-Import the dataset\n
-Display some digits
-Fit a Linear Classifier
-Evaluate accuracy
-Classify a few examples
-Visualize learned weights
+Import the dataset<br>
+Display some digits<br>
+Fit a Linear Classifier<br>
+Evaluate accuracy<br>
+Classify a few examples<br>
+Visualize learned weights<br>
