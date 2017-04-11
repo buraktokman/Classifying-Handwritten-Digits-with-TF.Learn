@@ -8,9 +8,14 @@ You can find a docker image here:
 
 # Summary
 
-Import the dataset<br>
-Display some digits<br>
-Fit a Linear Classifier<br>
-Evaluate accuracy<br>
-Classify a few examples<br>
+Import the dataset
+
+Display some digits
+
+Fit a Linear Classifier
+
+Evaluate accuracy
+
+Classify a few examples
+
 Visualize learned weights<br>
